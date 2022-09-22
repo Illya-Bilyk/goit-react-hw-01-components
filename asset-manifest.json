@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Illya-Bilyk/goit-react-hw-01-components/static/css/main.c18662f1.css",
+    "main.js": "/Illya-Bilyk/goit-react-hw-01-components/static/js/main.291eed54.js",
+    "index.html": "/Illya-Bilyk/goit-react-hw-01-components/index.html",
+    "main.c18662f1.css.map": "/Illya-Bilyk/goit-react-hw-01-components/static/css/main.c18662f1.css.map",
+    "main.291eed54.js.map": "/Illya-Bilyk/goit-react-hw-01-components/static/js/main.291eed54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c18662f1.css",
+    "static/js/main.291eed54.js"
+  ]
+}
