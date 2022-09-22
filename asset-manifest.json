@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Illya-Bilyk/goit-react-hw-01-components/static/css/main.c18662f1.css",
-    "main.js": "/Illya-Bilyk/goit-react-hw-01-components/static/js/main.291eed54.js",
+    "main.js": "/Illya-Bilyk/goit-react-hw-01-components/static/js/main.88a38c7c.js",
     "index.html": "/Illya-Bilyk/goit-react-hw-01-components/index.html",
     "main.c18662f1.css.map": "/Illya-Bilyk/goit-react-hw-01-components/static/css/main.c18662f1.css.map",
-    "main.291eed54.js.map": "/Illya-Bilyk/goit-react-hw-01-components/static/js/main.291eed54.js.map"
+    "main.88a38c7c.js.map": "/Illya-Bilyk/goit-react-hw-01-components/static/js/main.88a38c7c.js.map"
   },
   "entrypoints": [
     "static/css/main.c18662f1.css",
-    "static/js/main.291eed54.js"
+    "static/js/main.88a38c7c.js"
   ]
 }
