@@ -11,7 +11,7 @@ export const Item = styled.li`
   height: 75px;
   width: 300px;
   margin-bottom: 25px;
-
+  background-color: #fff;
   display: flex;
   align-items: center;
 `;
